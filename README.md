@@ -5,8 +5,6 @@
 <li>css
 
 # src 
- ### Icons
- <a href='https://ionic.io/ionicons'>Ionicons</a>
  ### Font (poppins)
  <a href='https://fonts.google.com'>Google</a>
 
